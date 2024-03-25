@@ -1,0 +1,9 @@
+{
+  "parent": "death_block:custom/death_block",
+  "textures": {
+    "all": "death_block:block/texture",
+    "particle": "death_block:block/texture",
+    "0": "death_block:block/texture"
+  },
+  "render_type": "solid"
+}
